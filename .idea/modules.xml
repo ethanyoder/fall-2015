@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" filepath="$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment03_YoderSourceCode/Assignment03_YoderSourceCode.iml" filepath="$PROJECT_DIR$/Assignment03_YoderSourceCode/Assignment03_YoderSourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment04_YoderSourceCode/Assignment04_YoderSourceCode.iml" filepath="$PROJECT_DIR$/Assignment04_YoderSourceCode/Assignment04_YoderSourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncryptionDecryption/EncryptionDecryption.iml" filepath="$PROJECT_DIR$/EncryptionDecryption/EncryptionDecryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileIO/FileIO.iml" filepath="$PROJECT_DIR$/FileIO/FileIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grader/Grader.iml" filepath="$PROJECT_DIR$/Grader/Grader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIOCaseStudy/JavaIOCaseStudy.iml" filepath="$PROJECT_DIR$/JavaIOCaseStudy/JavaIOCaseStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yoder_Assignment5/Yoder_Assignment5.iml" filepath="$PROJECT_DIR$/Yoder_Assignment5/Yoder_Assignment5.iml" />
+    </modules>
+  </component>
+</project>
